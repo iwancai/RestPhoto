@@ -10,5 +10,3 @@ This project is an android app for displaying profile pages and some photos from
 ### How to Running
 * Rebuild Project then Run 'app' in Android Studio
 
-Reference:
-`https://futurestud.io/tutorials/oauth-2-on-android-with-retrofit`
