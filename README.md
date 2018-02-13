@@ -1,7 +1,14 @@
 # RestPhoto
 
-### Indonesian
-Ini adalah tugas dari refactory bootcamp untuk mencoba menampilkan halaman profil dan beberapa foto dari rest-api.
+### Project Description
+This project is an android app for displaying profile pages and some photos from rest-api `https: // jsonplaceholder.typicode.com /`
 
-### English
-It is a task of refactory bootcamp to try to display a profile page and some photos from rest-api.
+### How to Install
+* Clone or download this project by typing git clone `https: // github.com / iwancai / RestPhoto.git` in the console terminal or by downloading the .zip project file.
+* Open this project file with android studio, make sure you are connected to the internet
+
+### How to Running
+* Rebuild Project then Run 'app' in Android Studio
+
+Reference:
+`https://futurestud.io/tutorials/oauth-2-on-android-with-retrofit`
